@@ -15,6 +15,7 @@ namespace ParentA
         static void Main()
         {
             int i = 11;
+            int j = 1;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
