@@ -14,6 +14,7 @@ namespace ParentA
         [STAThread]
         static void Main()
         {
+            int i = 11;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
